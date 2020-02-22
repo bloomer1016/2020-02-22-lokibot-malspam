@@ -1,0 +1,723 @@
+81163 open
+81164 open
+81175 .tmp
+81176 .tmp
+81187 %s\*
+81188 %s\*
+81199 Windows
+81200 Windows
+81215 Program Files
+81216 Program Files
+81243 %s\%s
+81244 %s\%s
+81255 %s\%s\%s%s
+81256 %s\%s\%s%s
+81279 %s\%s%s
+81280 %s\%s%s
+81304 UNIQUE
+81316 SQLite format 3
+81332 DlRycq1tP2vSeaogj5bEUFzQiHT9dmKCn6uf7xsOY0hpwr43VINX8JGBAkLMZW
+81399 U2XpekVvtYq0fwsx7EDuZjrCo9GcF1B6Hl358mbznyLWdMANa4TSKJhIiOPgQR
+81400 U2XpekVvtYq0fwsx7EDuZjrCo9GcF1B6Hl358mbznyLWdMANa4TSKJhIiOPgQR
+81528 http://
+81536 https://
+81576 MachineGuid
+81588 SOFTWARE\Microsoft\Cryptography
+81618 ySeDebugPrivilege
+81619 SeDebugPrivilege
+81655 ntdll.dll
+81656 ntdll.dll
+81676 LdrGetProcedureAddress
+81700 RtlNtStatusToDosError
+81724 RtlSetLastWin32Error
+81748 ZwQueryInformationProcess
+81776 RtlCreateUserThread
+81796 ZwAllocateVirtualMemory
+81820 NtFreeVirtualMemory
+81840 NtWriteVirtualMemory
+81864 ZwReadVirtualMemory
+81884 ZwResumeThread
+81916 last_compatible_version
+81940 password_value
+81956 username_value
+81972 origin_url
+81984 logins
+81991 %s\%s\User Data\Default\Login Data
+81992 %s\%s\User Data\Default\Login Data
+82063 %s\%s\User Data\Default\Web Data
+82064 %s\%s\User Data\Default\Web Data
+82131 %s%s\Login Data
+82132 %s%s\Login Data
+82163 %s%s\Default\Login Data
+82164 %s%s\Default\Login Data
+82211 Comodo\Dragon
+82212 Comodo\Dragon
+82239 MapleStudio\ChromePlus
+82240 MapleStudio\ChromePlus
+82287 Google\Chrome
+82288 Google\Chrome
+82315 Nichrome
+82316 Nichrome
+82335 RockMelt
+82336 RockMelt
+82355 Spark
+82356 Spark
+82367 Chromium
+82368 Chromium
+82387 Titan Browser
+82388 Titan Browser
+82415 Torch
+82416 Torch
+82427 Yandex\YandexBrowser
+82428 Yandex\YandexBrowser
+82471 Epic Privacy Browser
+82472 Epic Privacy Browser
+82515 CocCoc\Browser
+82516 CocCoc\Browser
+82547 Vivaldi
+82548 Vivaldi
+82563 Comodo\Chromodo
+82564 Comodo\Chromodo
+82595 Superbird
+82596 Superbird
+82615 Coowon\Coowon
+82616 Coowon\Coowon
+82643 Mustang Browser
+82644 Mustang Browser
+82675 360Browser\Browser
+82676 360Browser\Browser
+82715 CatalinaGroup\Citrio
+82716 CatalinaGroup\Citrio
+82759 Google\Chrome SxS
+82760 Google\Chrome SxS
+82795 Orbitum
+82796 Orbitum
+82811 Iridium
+82812 Iridium
+82827 \Opera\Opera Next\data
+82828 \Opera\Opera Next\data
+82875 \Opera Software\Opera Stable
+82876 \Opera Software\Opera Stable
+82935 \Fenrir Inc\Sleipnir\setting\modules\ChromiumViewer
+82936 \Fenrir Inc\Sleipnir\setting\modules\ChromiumViewer
+83039 \Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
+83040 \Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
+83147 vaultcli.dll
+83148 vaultcli.dll
+83176 VaultEnumerateItems
+83196 VaultEnumerateVaults
+83220 VaultFree
+83232 VaultGetItem
+83248 VaultOpenVault
+83264 VaultCloseVault
+83278 tSoftware\Microsoft\Internet Explorer\IntelliForms\Storage2
+83279 Software\Microsoft\Internet Explorer\IntelliForms\Storage2
+83399 %s%02X
+83400 %s%02X
+83415 file:///
+83416 file:///
+83439 Software\Microsoft\Internet Explorer\TypedURLs
+83440 Software\Microsoft\Internet Explorer\TypedURLs
+83544 SELECT encryptedUsername, encryptedPassword, formSubmitURL, hostname FROM moz_logins
+83648 hostname
+83660 encryptedUsername
+83680 encryptedPassword
+83699 %s\logins.json
+83700 %s\logins.json
+83731 %s\prefs.js
+83732 %s\prefs.js
+83755 %s\signons.sqlite
+83756 %s\signons.sqlite
+83791 signons.txt
+83792 signons.txt
+83815 signons2.txt
+83816 signons2.txt
+83843 signons3.txt
+83844 signons3.txt
+83871 %s\Mozilla\Firefox\profiles.ini
+83872 %s\Mozilla\Firefox\profiles.ini
+83935 %s\Mozilla\Firefox\Profiles\%s
+83936 %s\Mozilla\Firefox\Profiles\%s
+83999 %s\Mozilla\SeaMonkey\profiles.ini
+84000 %s\Mozilla\SeaMonkey\profiles.ini
+84071 %s\Mozilla\SeaMonkey\Profiles\%s
+84072 %s\Mozilla\SeaMonkey\Profiles\%s
+84139 %s\Flock\Browser\profiles.ini
+84140 %s\Flock\Browser\profiles.ini
+84199 %s\Flock\Browser\Profiles\%s
+84200 %s\Flock\Browser\Profiles\%s
+84259 %s\Thunderbird\profiles.ini
+84260 %s\Thunderbird\profiles.ini
+84315 %s\Thunderbird\Profiles\%s
+84316 %s\Thunderbird\Profiles\%s
+84371 %s\K-Meleon\profiles.ini
+84372 %s\K-Meleon\profiles.ini
+84423 %s\K-Meleon\%s
+84424 %s\K-Meleon\%s
+84455 %s\Comodo\IceDragon\profiles.ini
+84456 %s\Comodo\IceDragon\profiles.ini
+84527 %s\Comodo\IceDragon\Profiles\%s
+84528 %s\Comodo\IceDragon\Profiles\%s
+84591 %s\NETGATE Technologies\BlackHawk\profiles.ini
+84592 %s\NETGATE Technologies\BlackHawk\profiles.ini
+84687 %s\NETGATE Technologies\BlackHawk\Profiles\%s
+84688 %s\NETGATE Technologies\BlackHawk\Profiles\%s
+84779 %s\Postbox\profiles.ini
+84780 %s\Postbox\profiles.ini
+84827 %s\Postbox\Profiles\%s
+84828 %s\Postbox\Profiles\%s
+84879 %s\8pecxstudios\Cyberfox\profiles.ini
+84880 %s\8pecxstudios\Cyberfox\profiles.ini
+84959 %s\8pecxstudios\Cyberfox\Profiles\%s
+84960 %s\8pecxstudios\Cyberfox\Profiles\%s
+85039 %s\Moonchild Productions\Pale Moon\profiles.ini
+85040 %s\Moonchild Productions\Pale Moon\profiles.ini
+85135 %s\Moonchild Productions\Pale Moon\Profiles\%s
+85136 %s\Moonchild Productions\Pale Moon\Profiles\%s
+85231 %s\FossaMail\profiles.ini
+85232 %s\FossaMail\profiles.ini
+85283 %s\FossaMail\Profiles\%s
+85284 %s\FossaMail\Profiles\%s
+85335 %s\Lunascape\Lunascape6\plugins\{9BDD5314-20A6-4d98-AB30-8325A95771EE}\data
+85336 %s\Lunascape\Lunascape6\plugins\{9BDD5314-20A6-4d98-AB30-8325A95771EE}\data
+85487 Profile%i
+85488 Profile%i
+85507 Path
+85508 Path
+85519 Profiles/
+85520 Profiles/
+85539 PATH
+85540 PATH
+85555 %s\nss3.dll
+85556 %s\nss3.dll
+85580 NSS_Init
+85592 NSS_Shutdown
+85608 PK11_GetInternalKeySlot
+85632 PK11_FreeSlot
+85648 PK11_Authenticate
+85668 PK11SDR_Decrypt
+85684 PK11_CheckUserPassword
+85708 SECITEM_FreeItem
+85727 sqlite3.dll
+85728 sqlite3.dll
+85751 mozsqlite3.dll
+85752 mozsqlite3.dll
+85783 nss3.dll
+85784 nss3.dll
+85804 sqlite3_finalize
+85824 sqlite3_step
+85840 sqlite3_close
+85856 sqlite3_column_text
+85876 sqlite3_open16
+85892 sqlite3_prepare_v2
+85912 sqlite3_prepare
+85926 eCurrentVersion
+85927 CurrentVersion
+85959 SOFTWARE\Mozilla\Mozilla Firefox
+85960 SOFTWARE\Mozilla\Mozilla Firefox
+86035 %s\%s\Main
+86036 %s\%s\Main
+86059 Install Directory
+86060 Install Directory
+86095 PathToExe
+86096 PathToExe
+86119 SOFTWARE\Mozilla\Mozilla Thunderbird
+86120 SOFTWARE\Mozilla\Mozilla Thunderbird
+86195 SOFTWARE\Mozilla\FossaMail
+86196 SOFTWARE\Mozilla\FossaMail
+86251 SOFTWARE\Postbox\Postbox
+86252 SOFTWARE\Postbox\Postbox
+86303 SOFTWARE\Mozilla\Flock
+86304 SOFTWARE\Mozilla\Flock
+86351 SOFTWARE\Flock\Flock
+86352 SOFTWARE\Flock\Flock
+86395 (x86)
+86396 (x86)
+86407 %ProgramW6432%
+86408 %ProgramW6432%
+86439 %s\NETGATE\Black Hawk
+86440 %s\NETGATE\Black Hawk
+86483 SOFTWARE\Mozilla\Pale Moon
+86484 SOFTWARE\Mozilla\Pale Moon
+86543 %s\Lunascape\Lunascape6\plugins\{9BDD5314-20A6-4d98-AB30-8325A95771EE}
+86544 %s\Lunascape\Lunascape6\plugins\{9BDD5314-20A6-4d98-AB30-8325A95771EE}
+86687 SOFTWARE\K-Meleon
+86688 SOFTWARE\K-Meleon
+86723 SetupPath
+86724 SetupPath
+86743 SOFTWARE\ComodoGroup\IceDragon\Setup
+86744 SOFTWARE\ComodoGroup\IceDragon\Setup
+86819 RootDir
+86820 RootDir
+86839 SOFTWARE\8pecxstudios\Cyberfox86
+86840 SOFTWARE\8pecxstudios\Cyberfox86
+86907 SOFTWARE\8pecxstudios\Cyberfox
+86908 SOFTWARE\8pecxstudios\Cyberfox
+86971 SOFTWARE\mozilla.org\SeaMonkey
+86972 SOFTWARE\mozilla.org\SeaMonkey
+87035 %s\Mozilla\Profiles
+87036 %s\Mozilla\Profiles
+87083 SOFTWARE\Mozilla\SeaMonkey
+87084 SOFTWARE\Mozilla\SeaMonkey
+87139 SOFTWARE\Mozilla\Waterfox
+87140 SOFTWARE\Mozilla\Waterfox
+87192 ffffff
+87216 firefox.exe
+87217 irefox.exe
+87251 kernel32.dll
+87252 kernel32.dll
+87280 CloseHandle
+87292 CreateFileW
+87304 WriteFile
+87316 ExitProcess
+87326 sCrypt32.dll
+87327 Crypt32.dll
+87352 CryptStringToBinaryA
+87375 Shlwapi.dll
+87376 Shlwapi.dll
+87400 StrStrA
+87408 GetProcAddress
+87424 LoadLibraryW
+87439 %s\Opera
+87440 %s\Opera
+87459 wand.dat
+87460 wand.dat
+87480 X!2$6*9(SKiasb+!v<.qF58_qwe~QsRTYvdeTYb
+87518 bform_password_control
+87519 form_password_control
+87563 form_username_control
+87564 form_username_control
+87607 Software\QtWeb.NET\QtWeb Internet Browser\AutoComplete
+87608 Software\QtWeb.NET\QtWeb Internet Browser\AutoComplete
+87719 %s\QupZilla\profiles\default\browsedata.db
+87720 %s\QupZilla\profiles\default\browsedata.db
+87812 array
+87820 dict
+87828 data
+87836 string
+87844 Server
+87851 InstallDir
+87852 InstallDir
+87879 SOFTWARE\Apple Computer, Inc.\Safari
+87880 SOFTWARE\Apple Computer, Inc.\Safari
+87959 %s\Apple Computer\Preferences\keychain.plist
+87960 %s\Apple Computer\Preferences\keychain.plist
+88055 %s\Apple Application Support\plutil.exe
+88056 %s\Apple Application Support\plutil.exe
+88135 .xml
+88136 .xml
+88147 -convert xml1 -s -o %s "%s"
+88148 -convert xml1 -s -o %s "%s"
+88203 %s\Data\AccCfg\Accounts.tdat
+88204 %s\Data\AccCfg\Accounts.tdat
+88263 %s\Storage
+88264 %s\Storage
+88287 Account.rec0
+88288 Account.rec0
+88315 %s\Foxmail\mail
+88316 %s\Foxmail\mail
+88347 *.stg
+88348 *.stg
+88359 %SYSTEMDRIVE%
+88360 %SYSTEMDRIVE%
+88387 Foxmail*
+88388 Foxmail*
+88407 EmailAddress
+88408 EmailAddress
+88435 Technology
+88436 Technology
+88459 PopServer
+88460 PopServer
+88479 PopPort
+88480 PopPort
+88495 PopAccount
+88496 PopAccount
+88519 PopPassword
+88520 PopPassword
+88543 SmtpServer
+88544 SmtpServer
+88567 SmtpPort
+88568 SmtpPort
+88587 SmtpAccount
+88588 SmtpAccount
+88611 SmtpPassword
+88612 SmtpPassword
+88639 Software\IncrediMail\Identities
+88640 Software\IncrediMail\Identities
+88703 UserName
+88704 UserName
+88723 Passwd
+88724 Passwd
+88739 POP3Server
+88740 POP3Server
+88763 POP3Port
+88764 POP3Port
+88783 Email
+88784 Email
+88795 SMTP Email Address
+88796 SMTP Email Address
+88835 SMTP Server
+88836 SMTP Server
+88859 SMTP User Name
+88860 SMTP User Name
+88891 SMTP User
+88892 SMTP User
+88911 POP3 Server
+88912 POP3 Server
+88935 POP3 User Name
+88936 POP3 User Name
+88967 POP3 User
+88968 POP3 User
+88987 NNTP Email Address
+88988 NNTP Email Address
+89027 NNTP User Name
+89028 NNTP User Name
+89059 NNTP Server
+89060 NNTP Server
+89083 IMAP Server
+89084 IMAP Server
+89107 IMAP User Name
+89108 IMAP User Name
+89139 IMAP User
+89140 IMAP User
+89159 HTTP User
+89160 HTTP User
+89179 HTTP Server URL
+89180 HTTP Server URL
+89211 HTTPMail User Name
+89212 HTTPMail User Name
+89251 HTTPMail Server
+89252 HTTPMail Server
+89283 POP3 Port
+89284 POP3 Port
+89303 SMTP Port
+89304 SMTP Port
+89323 IMAP Port
+89324 IMAP Port
+89343 POP3 Password2
+89344 POP3 Password2
+89375 IMAP Password2
+89376 IMAP Password2
+89407 NNTP Password2
+89408 NNTP Password2
+89439 HTTPMail Password2
+89440 HTTPMail Password2
+89479 SMTP Password2
+89480 SMTP Password2
+89511 POP3 Password
+89512 POP3 Password
+89539 IMAP Password
+89540 IMAP Password
+89567 NNTP Password
+89568 NNTP Password
+89595 HTTP Password
+89596 HTTP Password
+89623 SMTP Password
+89624 SMTP Password
+89655 Software\Microsoft\Windows NT\CurrentVersion\Windows Messaging Subsystem\Profiles\Outlook
+89656 Software\Microsoft\Windows NT\CurrentVersion\Windows Messaging Subsystem\Profiles\Outlook
+89839 Software\Microsoft\Office\15.0\Outlook\Profiles\Outlook
+89840 Software\Microsoft\Office\15.0\Outlook\Profiles\Outlook
+89951 Software\Microsoft\Office\16.0\Outlook\Profiles\Outlook
+89952 Software\Microsoft\Office\16.0\Outlook\Profiles\Outlook
+90063 %s\32BitFtp.TMP
+90064 %s\32BitFtp.TMP
+90095 %s\32BitFtp.ini
+90096 %s\32BitFtp.ini
+90127 %s\Estsoft\ALFTP\ESTdb2.dat
+90128 %s\Estsoft\ALFTP\ESTdb2.dat
+90183 %s\site.xml
+90184 %s\site.xml
+90207 %s\BitKinex\bitkinex.ds
+90208 %s\BitKinex\bitkinex.ds
+90255 *.tlp
+90256 *.tlp
+90267 *.bscp
+90268 *.bscp
+90283 LastUsedProfile
+90284 LastUsedProfile
+90315 Software\Bitvise\BvSshClient
+90316 Software\Bitvise\BvSshClient
+90375 %s\BlazeFtp\site.dat
+90376 %s\BlazeFtp\site.dat
+90423 Software\FlashPeak\BlazeFtp\Settings
+90424 Software\FlashPeak\BlazeFtp\Settings
+90499 LastPassword
+90500 LastPassword
+90527 LastUser
+90528 LastUser
+90547 LastAddress
+90548 LastAddress
+90571 LastPort
+90572 LastPort
+90591 Server
+90592 Server
+90607 Password
+90608 Password
+90627 _Password
+90628 _Password
+90647 Software\NCH Software\ClassicFTP\FTPAccounts
+90648 Software\NCH Software\ClassicFTP\FTPAccounts
+90740 settings
+90756 name
+90764 value
+90771 %s\Cyberduck
+90772 %s\Cyberduck
+90799 user.config
+90800 user.config
+90823 %s\iterate_GmbH
+90824 %s\iterate_GmbH
+90855 %s\EasyFTP\data
+90856 %s\EasyFTP\data
+90896 server
+90904 username
+90916 protocol
+90927 %s\ExpanDrive
+90928 %s\ExpanDrive
+90955 *favorites.js
+90956 *favorites.js
+90983 drives.js
+90984 drives.js
+91003 %s%c
+91004 %s%c
+91015 User
+91016 User
+91027 HostName
+91028 HostName
+91047 Software\Far\Plugins\FTP\Hosts
+91048 Software\Far\Plugins\FTP\Hosts
+91111 Software\Far2\Plugins\FTP\Hosts
+91112 Software\Far2\Plugins\FTP\Hosts
+91175 %s\Far Manager\Profile\PluginsData\42E4AEB1-A230-44F4-B33C-F195BB654931.db
+91176 %s\Far Manager\Profile\PluginsData\42E4AEB1-A230-44F4-B33C-F195BB654931.db
+91327 %s\FileZilla\Filezilla.xml
+91328 %s\FileZilla\Filezilla.xml
+91383 %s\FileZilla\filezilla.xml
+91384 %s\FileZilla\filezilla.xml
+91439 %s\FileZilla\recentservers.xml
+91440 %s\FileZilla\recentservers.xml
+91503 %s\FileZilla\sitemanager.xml
+91504 %s\FileZilla\sitemanager.xml
+91563 %s\FlashFXP
+91564 %s\FlashFXP
+91587 *Sites.dat
+91588 *Sites.dat
+91611 *quick.dat
+91612 *quick.dat
+91635 FtpServer
+91636 FtpServer
+91655 FtpUserName
+91656 FtpUserName
+91679 FtpPassword
+91680 FtpPassword
+91703 _FtpPassword
+91704 _FtpPassword
+91735 Software\NCH Software\Fling\Accounts
+91736 Software\NCH Software\Fling\Accounts
+91815 %s\FreshWebmaster\FreshFTP\FtpSites.SMF
+91816 %s\FreshWebmaster\FreshFTP\FtpSites.SMF
+91895 %s\FTPBox\profiles.conf
+91896 %s\FTPBox\profiles.conf
+91943 %s\FTPGetter\Profile\servers.xml
+91944 %s\FTPGetter\Profile\servers.xml
+92011 %s\FTPGetter\servers.xml
+92012 %s\FTPGetter\servers.xml
+92063 %s\FTPInfo\ServerList.xml
+92064 %s\FTPInfo\ServerList.xml
+92115 %s\FTPInfo\ServerList.cfg
+92116 %s\FTPInfo\ServerList.cfg
+92167 %s\FTP Navigator\Ftplist.txt
+92168 %s\FTP Navigator\Ftplist.txt
+92227 %s\FTP Now\sites.xml
+92228 %s\FTP Now\sites.xml
+92271 %s\FTPShell\ftpshell.fsi
+92272 %s\FTPShell\ftpshell.fsi
+92327 %s\.config\fullsync\profiles.xml
+92328 %s\.config\fullsync\profiles.xml
+92395 %s\DeluxeFTP\sites.xml
+92396 %s\DeluxeFTP\sites.xml
+92447 %s\GoFTP\settings\Connections.txt
+92448 %s\GoFTP\settings\Connections.txt
+92515 JaSFtp
+92516 JaSFtp
+92531 AbleFTP
+92532 AbleFTP
+92547 Automize
+92548 Automize
+92567 %s\%s%i\encPwd.jsd
+92568 %s\%s%i\encPwd.jsd
+92607 %s\%s%i\data\settings\sshProfiles-j.jsd
+92608 %s\%s%i\data\settings\sshProfiles-j.jsd
+92687 %s\%s%i\data\settings\ftpProfiles-j.jsd
+92688 %s\%s%i\data\settings\ftpProfiles-j.jsd
+92767 Pass
+92768 Pass
+92779 Host
+92780 Host
+92791 Port
+92792 Port
+92803 Software\LinasFTP\Site Manager
+92804 Software\LinasFTP\Site Manager
+92867 %s\oZone3D\MyFTP\myftp.ini
+92868 %s\oZone3D\MyFTP\myftp.ini
+92923 %s\NetDrive\NDSites.ini
+92924 %s\NetDrive\NDSites.ini
+92971 %s\NetDrive2\drives.dat
+92972 %s\NetDrive2\drives.dat
+93023 %s\Fastream NETFile\My FTP Links
+93024 %s\Fastream NETFile\My FTP Links
+93095 %s\NexusFile\userdata\ftpsite.ini
+93096 %s\NexusFile\userdata\ftpsite.ini
+93163 %s\NexusFile\ftpsite.ini
+93164 %s\NexusFile\ftpsite.ini
+93215 %s\INSoftware\NovaFTP\NovaFTP.db
+93216 %s\INSoftware\NovaFTP\NovaFTP.db
+93287 %s\Notepad++\plugins\config\NppFTP\NppFTP.xml
+93288 %s\Notepad++\plugins\config\NppFTP\NppFTP.xml
+93383 %s\Odin Secure FTP Expert\QFDefault.QFQ
+93384 %s\Odin Secure FTP Expert\QFDefault.QFQ
+93463 %s\Odin Secure FTP Expert\SiteInfo.QFP
+93464 %s\Odin Secure FTP Expert\SiteInfo.QFP
+93543 PublicKeyFile
+93544 PublicKeyFile
+93571 TerminalType
+93572 TerminalType
+93599 PortNumber
+93600 PortNumber
+93623 Software\9bis.com\KiTTY\Sessions
+93624 Software\9bis.com\KiTTY\Sessions
+93695 Software\SimonTatham\PuTTY\Sessions
+93696 Software\SimonTatham\PuTTY\Sessions
+93767 _dec
+93768 _dec
+93779 %s_dec
+93780 %s_dec
+93795 lsasrv.dll
+93796 lsasrv.dll
+93820 LsaICryptUnprotectData
+93843 lsass.exe
+93844 lsass.exe
+93871 %s\Microsoft\Credentials
+93872 %s\Microsoft\Credentials
+93923 Config Path
+93924 Config Path
+93947 Software\VanDyke\SecureFX
+93948 Software\VanDyke\SecureFX
+93999 %s\Sessions
+94000 %s\Sessions
+94023 *.ini
+94024 *.ini
+94036 Port
+94048 UserName
+94060 Password
+94071 %s\SftpNetDrive
+94072 %s\SftpNetDrive
+94103 *.cfg
+94104 *.cfg
+94119 %s\Sherrod Computers\sherrod FTP\favorites
+94120 %s\Sherrod Computers\sherrod FTP\favorites
+94207 #document.favoriteManager*
+94208 #document.favoriteManager*
+94263 %s\SmartFTP
+94264 %s\SmartFTP
+94287 {*.xml
+94288 {*.xml
+94303 %s\Staff-FTP\sites.ini
+94304 %s\Staff-FTP\sites.ini
+94351 %s\Steed\bookmarks.txt
+94352 %s\Steed\bookmarks.txt
+94399 %s\SuperPutty
+94400 %s\SuperPutty
+94427 Sessions*
+94428 Sessions*
+94447 sftp://
+94448 sftp://
+94463 ftp://
+94464 ftp://
+94479 ftps://
+94480 ftps://
+94495 http://
+94496 http://
+94511 https://
+94512 https://
+94535 {.:CRED:.}
+94536 {.:CRED:.}
+94559 {CREN}
+94560 {CREN}
+94575 {CRDB}
+94576 {CRDB}
+94591 Profiles
+94592 Profiles
+94611 %s\Syncovery
+94612 %s\Syncovery
+94639 Syncovery.ini
+94640 Syncovery.ini
+94667 %s\wcx_ftp.ini
+94668 %s\wcx_ftp.ini
+94699 %s\GHISLER\wcx_ftp.ini
+94700 %s\GHISLER\wcx_ftp.ini
+94747 FtpIniName
+94748 FtpIniName
+94775 Software\Ghisler\Total Commander
+94776 Software\Ghisler\Total Commander
+94843 %s\UltraFXP\sites.xml
+94844 %s\UltraFXP\sites.xml
+94887 %s\WinFtp Client\Favorites.dat
+94888 %s\WinFtp Client\Favorites.dat
+94951 FSProtocol
+94952 FSProtocol
+94975 Software\Martin Prikryl
+94976 Software\Martin Prikryl
+95023 %s\WS_FTP\WS_FTP.INI
+95024 %s\WS_FTP\WS_FTP.INI
+95067 %s\WS_FTP.INI
+95068 %s\WS_FTP.INI
+95095 %s\Ipswitch
+95096 %s\Ipswitch
+95119 ws_ftp.ini
+95120 ws_ftp.ini
+95143 %s\NetSarang\Xftp\Sessions
+95144 %s\NetSarang\Xftp\Sessions
+95199 *xfp
+95200 *xfp
+95216 MAC=%02X%02X%02XINSTALL=%08X%08Xk
+95300 1?0`
+95347 %s\%s\%s.exe
+95348 %s\%s\%s.exe
+95383 .exe
+95384 .exe
+95399 .dll
+95400 .dll
+95426 Fuckav.ru
+95450 ZAA]
+95484 |p}N
+95631 %s\%s.%s
+95632 %s\%s.%s
+95668 aPLib v1.01  -  the smaller the better :)
+95711 Copyright (c) 1998-2009 by Joergen Ibsen, All Rights Reserved.
+95777 More information: http://www.ibsensoftware.com/
+96049  n;^
+96241 Qkkbal
+96511 i]Wb
+96831 9a&g
+96840 MGiI
+96845 wn>Jj
+96911 #.zf
+96925 +o*7
+96954 DEST
+96970 DEST
+97170 getaddrinfo
+97184 freeaddrinfo
+97198 WS2_32.dll
+97212 GetLastError
+97228 SetLastError
+97244 HeapAlloc
+97256 HeapFree
+97268 GetProcessHeap
+97284 KERNEL32.dll
+97300 CoInitialize
+97316 CoUninitialize
+97334 CoCreateInstance
+97352 ole32.dll
+97362 OLEAUT32.dll
+98312 t$$_
